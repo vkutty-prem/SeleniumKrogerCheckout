@@ -32,7 +32,6 @@ public class TC01_checkout {
     driver.get("https://www.kroger.com/p/kroger-peeled-baby-carrots-bag/0001111091620");
 	}
 	
-	
 	@Test
 	
 	public void launch() {
